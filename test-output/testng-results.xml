@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="63433" started-at="2021-02-09T22:54:40 IST" finished-at="2021-02-09T22:55:43 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="63433" started-at="2021-02-09T22:54:40 IST" finished-at="2021-02-09T22:55:43 IST">
+      <class name="Startlearn.Basic">
+        <test-method status="PASS" signature="Launchwebsite()[pri:0, instance:Startlearn.Basic@670b40af]" name="Launchwebsite" is-config="true" duration-ms="11065" started-at="2021-02-09T22:54:40 IST" finished-at="2021-02-09T22:54:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launchwebsite -->
+        <test-method status="PASS" signature="Screenshotverification()[pri:0, instance:Startlearn.Basic@670b40af]" name="Screenshotverification" duration-ms="52151" started-at="2021-02-09T22:54:51 IST" finished-at="2021-02-09T22:55:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Screenshotverification -->
+        <test-method status="PASS" signature="Closewebsite()[pri:0, instance:Startlearn.Basic@670b40af]" name="Closewebsite" is-config="true" duration-ms="71" started-at="2021-02-09T22:55:43 IST" finished-at="2021-02-09T22:55:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closewebsite -->
+      </class> <!-- Startlearn.Basic -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
